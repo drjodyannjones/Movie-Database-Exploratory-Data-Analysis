@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EDA_movie_database
 =======
 <img src="https://github.com/drjodyannjones/EDA_movie_database/blob/master/favorite_movie_header.png">
@@ -12,4 +11,3 @@ In this project, we will explore interesting pattterns among movies, we wil expl
 5. ...and many more cool relationships
 
 Nerd out wth me and check out the notebook <a href="https://github.com/drjodyannjones/EDA_movie_database/blob/master/EDA_movie_database.ipynb">here</a>.
->>>>>>> f68ec8235582b8a6717826e72aafda9062344ec7
